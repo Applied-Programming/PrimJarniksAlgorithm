@@ -1,1 +1,1 @@
-# PrimJarniksAlgorithm
+# Prim Jarniks Algorithm
